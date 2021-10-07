@@ -1,2 +1,2 @@
-# K-st-bek-Arama-Robotu-KAR-
+# Kostebek-Arama-Robotu-KAR-
 Teknofest İnsanlık Yararına Teknoloji Yarışması için @ahmetiltersahin ile birlikte yaptığımız robot projemiz.
